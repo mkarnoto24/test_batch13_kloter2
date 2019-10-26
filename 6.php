@@ -3,7 +3,7 @@
 $huruf=[['a','e','c','b','d'],['j','h','i'],['l','k'],['v','y','x','z']];
 $jml=count($huruf);
 sort($huruf);
-echo "[";
+echo "<br>[";
 for($x=0;$x<=$jml-1;$x++)
 {
    echo "[";
@@ -30,6 +30,6 @@ for($x=0;$x<=$jml-1;$x++)
        echo "]";
    }
 }  
-echo "]";
+echo "<br>]";
 
 ?>
