@@ -29,4 +29,4 @@ function persegi($n)
     }
     
 }
-persegi(7);
+persegi(5);
